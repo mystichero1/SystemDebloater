@@ -1,6 +1,6 @@
 # SystemDebloater
 
-> Built mostly with pure **Vibe Coding** ⚡
+> Built mostly with **Hybride Vibe Coding** ⚡
 
 **SystemDebloater** is a modern, non-root Android utility designed to disable or remove bloatware using [Shizuku](https://shizuku.rikka.app/). It features app safety categorization, live search/filtering, and an integrated auto-updater.
 
